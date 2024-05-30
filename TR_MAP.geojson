@@ -26112,6 +26112,7 @@
       },
       "id":82,
       "geometry": {
+	"type": "Polygon",
         "coordinates": [
           [
             29.037448563545098,
@@ -26248,6 +26249,7 @@
       },
       "id":83,
       "geometry": {
+	"type": "Polygon",
         "coordinates": [
           [
             28.123663430599777,
